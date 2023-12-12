@@ -101,5 +101,3 @@ Een inleidingen kan vertrekken vanuit:
 
 - **De tekstsamenhang**
   - Je legt in je inleiding uit hoe de tekst samenhangt en wat het verband is tussen de verschillende onderdelen die je uitwerkt in je tekst.
-
----

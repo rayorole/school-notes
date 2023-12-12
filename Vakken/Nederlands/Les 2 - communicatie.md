@@ -61,7 +61,7 @@ Een rumoerige omgeving die maakt dat iemand tijdens het voeren van het gesprek w
 | **Aspect**      | **Uitleg**                                                |
 | --------------- | --------------------------------------------------------- |
 | **Zakelijk**    | Wat de spreker zegt                                       |
-| **Appellerend** | Wat de spreker wil berieken met de boodschap              |
+| **Appellerend** | Wat de spreker wil bereiken met de boodschap              |
 | **Expressief**  | Wat de spreker eigenlijk bedoelt                          |
 | **Relationeel** | Hoe de spreker en ontvanger ten opzichte van elkaar staan |
 
